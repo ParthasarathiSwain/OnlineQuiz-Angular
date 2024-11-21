@@ -1,27 +1,62 @@
-# OnlineQuiz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
+# Project Title
+ Online Quiz Application
+# Project Description
+A web-based online quiz application built using Angular, allowing users to create, participate in, and manage quizzes easily.
 
-## Development server
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributors](#contributors)
+- [License](#license)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
+- User authentication and profile management.
+- Real-time quiz creation and participation.
+- Leaderboards and quiz analytics.
+- Responsive design for all devices.
+## Technologies
+- Angular
+- TypeScript
+- HTML
+- CSS
+## Tool
+- Visual Studio Code
+- Operating System : Window 10 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/online-quiz.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd online-quiz
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the development server:
+   ```bash
+   ng serve
+   ```
+   Visit `http://localhost:4200` in your browser.
+## Usage
+1. Enter your name.
+2. Start answaring.
+3. View your scores.
+## Screenshots
+![Quiz Dashboard](img/1.png)
+![Quiz Questions](img/2.png)
+![Quiz Results](img/3.png)
 
-## Code scaffolding
+## Acknowledgments
+- Special thanks to [Angular](https://angular.io) for their incredible framework.
+- The quiz images were sourced from [Unsplash](https://unsplash.com).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
