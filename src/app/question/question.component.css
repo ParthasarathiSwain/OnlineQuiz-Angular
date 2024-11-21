@@ -1,0 +1,19 @@
+.card{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 6px;
+}
+li{
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+li:hover{
+    border: 1px solid blue;
+    background-color: rgb(26, 172, 216);
+
+}
+
+ol{
+    padding: 0;
+}
