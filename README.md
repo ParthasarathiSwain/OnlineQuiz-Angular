@@ -49,8 +49,8 @@ A web-based online quiz application built using Angular, allowing users to creat
 3. View your scores.
 ## Screenshots
 ![Quiz Dashboard](https://github.com/ParthasarathiSwain/OnlineQuiz-Angular/blob/main/img/1.PNG)
-![Quiz Questions](img/2.png)
-![Quiz Results](img/3.png)
+![Quiz Questions](https://github.com/ParthasarathiSwain/OnlineQuiz-Angular/blob/main/img/2.PNG)
+![Quiz Results](https://github.com/ParthasarathiSwain/OnlineQuiz-Angular/blob/main/img/3.PNG)
 
 ## Acknowledgments
 - Special thanks to [Angular](https://angular.io) for their incredible framework.
